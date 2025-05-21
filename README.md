@@ -36,10 +36,6 @@ These datasets include transactional data of iPhone sales by store and their map
 
 ---
 
-## 📊 Final Power BI Output
-
-![iPhone Sales Comparison Table](assets/iphone_sales_comparison_table.jpg)
-
 **🧾 Summary of Results:**
 - Total iPhone 14 Sales: **1,232,065**
 - Total iPhone 15 Sales: **1,179,524**
@@ -61,7 +57,7 @@ These datasets include transactional data of iPhone sales by store and their map
 
 ---
 
-## 📘 How to Explain This Project
+## 📘 Short Summary
 
 > “I conducted a data analysis project comparing iPhone 14 and iPhone 15 sales using Power BI. I cleaned and joined datasets, calculated both absolute and percentage sales variance, and identified top-performing and underperforming countries. The final dashboard highlights that globally, iPhone 15 sales declined by 4.26%, with strong growth in Brazil and Germany, but major losses in the U.S. and UAE.”
 
